@@ -38,3 +38,7 @@ build/
 .builds 
 *.pidb 
 *.log 
+pro/.vs/*
+*.sln
+*.vcxproj*
+
